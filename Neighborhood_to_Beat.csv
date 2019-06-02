@@ -1,0 +1,56 @@
+OBJECTID,Neighborhood,Beat
+1,Outskirts,99
+2,Ballard Neighborhood,B1
+3,Fremont Neighborhood,B2
+4,Wallingford Neighborhood,B3
+5,Eastlake,C1
+6,Madison Valley,C2
+7,Central District,C3
+8,Belltown,D1
+9,SLU/Westlake,D2
+10,Eastlake,D3
+11,Capitol Hill Neighborhood,E1
+12,Capitol Hill Neighborhood,E2
+13,Capitol Hill Neighborhood,E3
+14,Highpoint,F1
+15,White Center Neighborhood,F2
+16,South Park Neighborhood,F3
+17,International District,G1
+18,Central District,G2
+19,Mount Baker Neighborhood,G3
+20,Puget Sound,H1
+21,Union Bay,H2
+22,Lake Washington,H3
+23,North Beach Neighborhood,J1
+24,Crown Hill Neighborhood,J2
+25,Green Lake Neighborhood,J3
+26,Central Business District,K1
+27,SODO,K2
+28,International District,K3
+29,Lake City Neighborhood,L1
+30,Lake City Neighborhood,L2
+31,Lake City Neighborhood,L3
+32,Central Business District,M1
+33,Central Business District,M2
+34,Central Business District,M3
+35,Bitter Lake Neighborhood,N1
+36,Northgate Neighborhood,N2
+37,Northgate Neighborhood,N3
+38,SODO,O1
+39,SODO,O2
+40,Georgetown Neighborhood,O3
+41,Magnolia Neighborhood,Q1
+42,Queen Anne Neighborhood,Q2
+43,Queen Anne Neighborhood,Q3
+44,Beacon Hill Neighborhood,R1
+45,Mount Baker Neighborhood,R2
+46,Columbia City Neighborhood,R3
+47,Rainier Valley Neighborhood,S1
+48,Rainier Valley Neighborhood,S2
+49,Rainier Beach Neighborhood,S3
+50,Maple Leaf Neighborhood,U1
+51,University District,U2
+52,Wedgewood Neighborhood,U3
+53,Admiral Neighborhood,W1
+54,West Seattle Neighborhood,W2
+55,Morgan Junction Neighborhood,W3
